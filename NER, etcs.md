@@ -21,3 +21,11 @@ __Semantic protorole labeling__
   - Can we assign roles using NLI and role-specifix hypotheses?
   - fine-tune on SPRL data
   - Recast data from PropBank SRL training data
+
+__FrameNet SRL or QA-SRL__
+-
+  - alternative
+  - similar to SPRL and ORL, semantic argument role labeling can in general be framed as NLI
+  - FrameNet provides role definitions --> can be used as hypothesis!
+  - QA-SRL uses nl to annotate semantic roles
+  - generate verb-specific questions --> the answer identifies the argument!
