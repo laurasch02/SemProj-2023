@@ -16,3 +16,4 @@ __Fine grained evaluation of NLI capacities__
   - Does model analysis confirm that you get improvements for the right reasons?
   - Hard NLI Datasets
   - Veridicality
+  - Factuality (FactBank)
