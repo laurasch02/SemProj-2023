@@ -29,3 +29,15 @@ __FrameNet SRL or QA-SRL__
   - FrameNet provides role definitions --> can be used as hypothesis!
   - QA-SRL uses nl to annotate semantic roles
   - generate verb-specific questions --> the answer identifies the argument!
+
+__Semantic textual similarity <3__
+-
+  - Sentence representation learning
+  - Use PLM to predict sent simil
+  - Compare perfomrnace of 0-shot vs. fine-tuning
+  - Data Sets: STS Shared task dataset; PAWS Paraphrase adversaries from Word Smapling
+
+__Discourse relation sense classification__
+-
+  - sentences in coherent discourse are related (by way of a Discourse Marker _explicit_; no DM _implicit_)
+  - Penn Discourse Tree Bank --> annotates DRs of both types with a coarse-to-fine-granied relation inventory
