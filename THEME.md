@@ -19,7 +19,7 @@ __Detecting weaknesses__
   - measure relative effect oif the different factors
   - qualitative analysis
  
- __Interpreting systems_
+ __Interpreting systems__
  -
  1. probing pretrained LM (0-shot) or testing fine-tuned model
  2. Approaches
